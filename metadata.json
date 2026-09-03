@@ -1,0 +1,6 @@
+{
+  "name": "StreakMind - Internship & Hackathon Portal",
+  "description": "Smart career accelerator for discovering technical & non-technical internships and hackathons with AI Resume Matching, Domain AI Tutor prep, and Daily Streak tracker.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
